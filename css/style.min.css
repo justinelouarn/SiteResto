@@ -1747,7 +1747,7 @@ section[data-section=menu] {
 
 .probootstrap-heading .primary-heading {
     font-family: "Pinyon Script", serif;
-    color: #FFA33E;
+    color: #ff3ee5;
     margin: 0;
     padding: 0;
     font-size: 80px
@@ -1761,7 +1761,7 @@ section[data-section=menu] {
 
 .probootstrap-heading .secondary-heading {
     text-transform: uppercase;
-    color: #fff;
+    color: rgb(168, 54, 54);
     margin: 0;
     padding: 0;
     letter-spacing: .05em;
@@ -1779,7 +1779,7 @@ section[data-section=menu] {
 }
 
 .probootstrap-heading.dark .secondary-heading {
-    color: #000
+    color: rgb(153, 42, 42)
 }
 
 .probootstrap-heading .seperator {
